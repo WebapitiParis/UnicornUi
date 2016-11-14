@@ -1,6 +1,7 @@
 # MatterUI (old name: UnicornUI)
-CSS and Javascript stuffs for MatterPHP Framework
-
+CSS and Javascript stuffs for MatterPHP Framework.
+Fully responsive.
+Do not hesitate to fork if you want to be part of it!
 
 &nbsp;
 
